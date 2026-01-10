@@ -19,7 +19,7 @@
 
 ---
 
-## 📊 Leadership & Impact Dashboard
+## 📊Impact Dashboard
 
 <div align="center">
 
