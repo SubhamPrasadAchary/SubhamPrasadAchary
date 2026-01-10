@@ -38,42 +38,7 @@
 
 ---
 
-## 🗺️ Strategic Technical Architecture
 
-```mermaid
-mindmap
-  root((Subham Prasad Achary))
-    Frontend Excellence
-      React.js Ecosystem
-      Modern CSS & Tailwind
-      Performance Optimization
-      Responsive Design
-      UI/UX Best Practices
-    Backend Engineering
-      Node.js & Express
-      RESTful API Design
-      MongoDB & Databases
-      Authentication & Security
-      Server Optimization
-    Full Stack Integration
-      MERN Stack Mastery
-      Git Version Control
-      CI/CD with Vercel
-      Cloud Deployment
-      Testing & QA
-    Emerging Technologies
-      AI & ML Integration
-      Cybersecurity Principles
-      Blockchain Fundamentals
-      IoT Architecture
-      Data Analytics
-    Professional Skills
-      Team Collaboration
-      Agile Development
-      Technical Documentation
-      Problem Solving
-      Strategic Planning
-```
 
 ---
 
