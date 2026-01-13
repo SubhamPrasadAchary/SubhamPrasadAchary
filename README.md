@@ -163,19 +163,6 @@ timeline
 
 **Strategic Value:** Full-stack e-commerce solution demonstrating end-to-end product development capabilities.
 
-**Technical Architecture:**
-- **React.js** frontend with component-based architecture for scalability
-- **Tailwind CSS** for rapid UI development and consistent design system
-- **Chart.js** integration for real-time analytics and business intelligence dashboards
-- Real-time product inventory tracking with optimistic UI updates
-
-**Key Features:**
-- Dynamic product catalog with search and filtering capabilities
-- Real-time inventory management system
-- Interactive analytics dashboard for business metrics
-- Responsive design optimized for mobile commerce
-
-**Business Impact:** Demonstrates capability to build revenue-generating platforms with focus on user experience and operational efficiency.
 
 ---
 
@@ -187,6 +174,7 @@ timeline
 ---
 
 ### **🎲 RUMBLE ROULETTE** | *Interactive Gaming Experience*
+[![Live Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=flat-square)](https://rumble-roulette.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square)](https://github.com/SubhamPrasadAchary/RUMBLE-ROULETTE-)
 
 **Strategic Value:** Advanced frontend engineering with complex animation systems and state management.
