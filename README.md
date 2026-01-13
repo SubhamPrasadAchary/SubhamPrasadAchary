@@ -212,23 +212,6 @@ timeline
 
 **Strategic Value:** Demonstrates data science and machine learning capabilities with practical business applications.
 
-**Technical Architecture:**
-- **Python** with Jupyter Notebook for data analysis and modeling
-- **Machine Learning Algorithms**: Linear Regression, Random Forest, Decision Tree, Ridge Regression
-- Comprehensive **Exploratory Data Analysis (EDA)** with data visualization
-- **Model Evaluation** using RMSE, R², MAE, and accuracy metrics
-
-**Key Insights & Performance:**
-- Analyzed 1,338 insurance records with 7 key features
-- Achieved **86% R² score** with Random Forest algorithm
-- **MAE of 2,608.55** demonstrating high prediction accuracy
-- Identified smoking and BMI as primary cost drivers
-
-**Business Impact:** 
-- Healthcare cost prediction for insurance pricing strategies
-- Risk assessment and underwriting optimization
-- Data-driven decision making for healthcare providers
-- Demonstrates ability to translate complex data into actionable business insights
 
 ---
 
