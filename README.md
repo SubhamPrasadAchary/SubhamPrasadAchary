@@ -184,21 +184,6 @@ timeline
 
 **Strategic Value:** Complex full-stack application with AI integration, showcasing modern architecture patterns.
 
-**Technical Architecture:**
-- **MERN Stack** (MongoDB, Express.js, React, Node.js) for scalable full-stack solution
-- **JWT Authentication** implementing industry-standard security practices
-- **AI-Assisted Goal Predictions** leveraging machine learning for personalized recommendations
-- **MongoDB Schema Optimization** for efficient data retrieval and storage
-
-**Key Features:**
-- Calorie and nutrition tracking with custom dashboards
-- Secure REST API architecture with proper error handling
-- User authentication and authorization with role-based access control
-- AI-powered personalized fitness recommendations
-- Real-time data synchronization across devices
-
-**Business Impact:** Demonstrates ability to architect complex systems with AI integration, applicable to healthcare, fitness, and wellness industries.
-
 ---
 
 ### **🎲 RUMBLE ROULETTE** | *Interactive Gaming Experience*
