@@ -195,12 +195,7 @@ timeline
 
 ---
 
-### **📊 Medical Insurance Cost Prediction** | *AI/ML Analytics Platform*
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square)](https://github.com/SubhamPrasadAchary/medical-insurance-cost-prediction)
-
-**Strategic Value:** Demonstrates data science and machine learning capabilities with practical business applications.
 
 
----
 
 ### **
