@@ -155,7 +155,7 @@ timeline
 
 **Strategic Value:** Demonstrates advanced frontend engineering capabilities with complex state management and performance optimization.
 
----
+--- 
 
 ### **🛒 EAZY-VEGGIE** | *E-Commerce Management Platform*
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square)](https://github.com/SubhamPrasadAchary/EAZY-VEGGIE)
