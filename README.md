@@ -1,5 +1,5 @@
 <div align="center"> 
- 
+  
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:3b82f6,100:60a5fa&height=280&section=header&text=Subham%20Prasad%20Achary&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Technical%20Architect%20%7C%20Innovation%20Leader&descAlignY=55&descSize=20)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-prasad-achary-568b8b225/)
