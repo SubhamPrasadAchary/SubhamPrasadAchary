@@ -9,7 +9,7 @@
 
 </div> 
 --- 
-
+ 
 ## 🎯 Executive Summary
 
 **Strategic Full-Stack Engineer** specializing in scalable web architectures, AI-powered solutions, and high-performance frontend systems. Currently pursuing B.Tech in Computer Science with specialization in IoT, Cybersecurity, and Blockchain at Amity University. Proven track record of delivering production-grade applications that drive user engagement and operational efficiency.
